@@ -1,0 +1,40 @@
+<!Doctype.html/>
+<html> 
+<div> 
+<body>
+element.style {
+}
+frameworks-80206cf….css:5
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+Inherited from body.logged-in.env-production.page-edit-blob.chrome-mouse
+github-fd7b1e8….css:1
+body {
+    min-width: 1020px;
+    word-wrap: break-word;
+}
+frameworks-80206cf….css:5
+body {
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 14px;
+    line-height: 1.5;
+    color: #24292e;
+    background-color: #fff;
+}
+Inherited from html
+frameworks-80206cf….css:5
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+
+</body>
+</div>
+</html>
